@@ -1,6 +1,8 @@
-# Developer guidelines for contributing to Querqy
+# Developer Guidelines for contributing to Querqy
 
-We welcome your contribution to developping Querqy further! Let us know about your idea or submit a pull request!
+We welcome your contribution to developping Querqy further! 
+
+Let us know about your idea or submit a pull request!
 
 We haven't compiled comprehensive developer guidelines yet but we ask you to adhere to the following:
 
